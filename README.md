@@ -1,3 +1,4 @@
+Paste this folder in fabric samples folder and run the following commands.
 Following commands are in 1. assgn_script.sh  2. assgn_script2.sh
 If bash is not working please run the following commands sequencially. 
 
